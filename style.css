@@ -1,3 +1,11 @@
 body {
   font-family: sans-serif
 }
+
+a.ytl {
+  display: inline-block;
+  background-color: red;
+  color: white;
+  padding: 20px;
+  text-decoration: none;
+}
