@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+a {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+a:hover {
+  background-color:grey;
+  color: black;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
