@@ -1,0 +1,14 @@
+<!DOCTYPE=html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title="404 Not found">
+    <link rel="stylesheet" href="terminal.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>404</h1>
+    <h3>おっと！このページは存在しません。</h3>
+    <p>Kono Page wanaim itaiy ade.</p>
+  </body>
+</html>
