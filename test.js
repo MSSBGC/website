@@ -8,6 +8,7 @@ for (const cookie of cookiesArray) {
   if (cookieArray[0] !== 'count') {
     document.cookie = 'count=1; path=/';
     console.log('1回目のアクセスです');
+    document.write("1回目のアクセスです");
   }
 
   // 2回目以降のアクセスなら
@@ -16,5 +17,6 @@ for (const cookie of cookiesArray) {
     accessCount++;
     document.cookie = 'count=' + accessCount + '; path=/';
     console.log(accessCount + '回目のアクセスです');
+    document.write(accessCount + "回目のアクセスです");
   }
 }
